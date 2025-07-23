@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👋 Hi, I'm Ali Nabavi — an Android Developer with over 3 years of experience.<br><br>I'm passionate about building modern, beautiful UIs using Jetpack Compose and exploring the latest tools and technologies in the Android ecosystem. I constantly strive to stay up to date and enjoy experimenting with new ideas and frameworks.<br><br>Beyond mobile development, I have a strong curiosity for learning and stepping into new fields. Lately, I've been diving into Machine Learning and brushing up on my Mathematics skills in my free time. 📐</h3>
+<h3 align="left">I'm Ali Nabavi — an Android Developer with over 3 years of experience.<br><br>I'm passionate about building modern, beautiful UIs using Jetpack Compose and exploring the latest tools and technologies in the Android ecosystem. I constantly strive to stay up to date and enjoy experimenting with new ideas and frameworks.<br><br>Beyond mobile development, I have a strong curiosity for learning and stepping into new fields. Lately, I've been diving into Machine Learning and brushing up on my Mathematics skills in my free time. 📐</h3>
 
 ###
 
